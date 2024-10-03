@@ -1,0 +1,162 @@
+[
+    {
+        "order_id": "12345",
+        "customer": {
+            "name": "John Doe",
+            "id": "C001"
+        },
+        "order_date": "2024-05-10",
+        "items": [
+            {
+                "product": "Laptop",
+                "quantity": 1,
+                "price": 1200.99
+            },
+            {
+                "product": "ipad",
+                "quantity": 2,
+                "price": 250.50
+            }
+        ]
+    },
+    {
+        "order_id": "12346",
+        "customer": {
+            "name": "Faial Wali",
+            "id": "C002"
+        },
+        "order_date": "2024-07-05",
+        "items": [
+            {
+                "product": "iphone",
+                "quantity": 1,
+                "price": 1800.97
+            },
+            {
+                "product": "ipad",
+                "quantity": 2,
+                "price": 350.50
+            }
+        ]
+    },
+    {
+        "order_id": "12347",
+        "customer": {
+            "name": "Nane Abai",
+            "id": "C003"
+        },
+        "order_date": "2024-05-10",
+        "items": [
+            {
+                "product": "Laptop",
+                "quantity": 1,
+                "price": 1200.99
+            },
+            {
+                "product": "Mouse",
+                "quantity": 2,
+                "price": 25.50
+            }
+        ]
+    },
+    {
+        "order_id": "12348",
+        "customer": {
+            "name": "Dominik Alexender ",
+            "id": "C004"
+        },
+        "order_date": "2024-06-15",
+        "items": [
+            {
+                "product": "MacBook Pro",
+                "quantity": 1,
+                "price": 2200.99
+            },
+            {
+                "product": "iphone",
+                "quantity": 1,
+                "price": 1600.50
+            }
+        ]
+    },
+    {
+        "order_id": "12349",
+        "customer": {
+            "name": "Peter Doe",
+            "id": "C005"
+        },
+        "order_date": "2024-07-20",
+        "items": [
+            {
+                "product": "ipad",
+                "quantity": 1,
+                "price": 550.99
+            },
+            {
+                "product": "TV Smart 75'",
+                "quantity": 1,
+                "price": 1920.50
+            }
+        ]
+    },
+    {
+        "order_id": "12350",
+        "customer": {
+            "name": "Jane Smith",
+            "id": "C006"
+        },
+        "order_date": "2024-06-15",
+        "items": [
+            {
+                "product": "Keyboard",
+                "quantity": 1,
+                "price": 85.00
+            },
+            {
+                "product": "ipad",
+                "quantity": 1,
+                "price": 320.00
+            }
+        ]
+    },
+    {
+        "order_id": "12351",
+        "customer": {
+            "name": "Marcelo Moia",
+            "id": "C007"
+        },
+        "order_date": "2024-04-22",
+        "items": [
+            {
+                "product": "Gaming Desk",
+                "quantity": 1,
+                "price": 980.00
+            },
+            {
+                "product": "Gaming Chair",
+                "quantity": 2,
+                "price": 850.00
+            }
+        ]
+    },
+    {
+        "order_id": "12352",
+        "customer": {
+            "name": "Udey Eudia",
+            "id": "C008"
+        },
+        "order_date": "2024-05-10",
+        "items": [
+            {
+                "product": "Laptop",
+                "quantity": 2,
+                "price": 1080.00
+            },
+            {
+                "product": "ipad",
+                "quantity": 2,
+                "price": 650.00
+            }
+        ]
+    }
+]
